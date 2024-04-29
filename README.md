@@ -1,3 +1,3 @@
-# htw_gdm_labs
+# htw_digitalMedia
 
-all Labs of GDM
+this repository contains all the exercise solutions from me of the digital Media Class of the HTW Berlin.
